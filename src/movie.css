@@ -1,0 +1,62 @@
+.title {
+    margin-top: 0;
+    color: #fdfaf0;
+    padding: 50px;
+    margin-bottom: 0;
+    font-family: DM serif display;
+    letter-spacing: 2px;
+  }
+  .nav-bar-links {
+    font-size: 15px;
+    margin: 10px;
+    background-color: #fdfaf0;
+    border-radius: 7px;
+    padding: 7px;
+    margin-top: 8px;
+    color: #6096b4;
+  }
+  #nav-bar {
+    padding: 15px;
+    text-align: center;
+    letter-spacing: 1px;
+  }
+  .nav-bar-links:hover{
+      background-color: whitesmoke;
+  }
+  
+  main {
+      background-color: #eee9da;
+      
+    }
+.movie-trailer{
+    font-size: 2.5rem;
+    text-align: center;
+    font-family: Dm serif display;
+    padding-top: 40px;
+    padding-bottom: 20px;
+    background-color: #fdfaf0;
+}
+.movie-trailer-video{
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+}
+/*img{
+    object-fit: cover;
+    width: 250px;
+    height: 240px;
+    border-radius: 50%;
+    margin: center;
+}
+.img-of-director{
+ padding-top: 20px;
+ display: flex;
+ justify-content: center;
+}
+.about-director{
+   font-family: DM serif display;
+   text-align: center;
+}
+.notable-work-list{
+    align-items: center;
+}*/

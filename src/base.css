@@ -1,0 +1,58 @@
+html {
+  font-size: 0.6em;
+}
+
+body {
+  margin: 0;
+  font-size: 1rem;
+  color: black;
+  
+}
+header {
+  background-color: #6096b4;
+}
+nav {
+  background-color: #93bfcf;
+}
+main {
+  background-color: #eee9da;
+}
+footer {
+  background-color: #bdcdd6;
+}
+
+
+h1 {
+  font-size: 2.5rem;
+  text-align: center;
+}
+
+h2 {
+  font-size: 2rem;
+  text-align: center;
+  font-family: DM serif display;
+  letter-spacing: 2px;
+}
+
+h3 {
+  font-size: 1.75rem;
+}
+h4 {
+  font-size: 1.5rem;
+}
+h5 {
+  font-size: 1rem;
+}
+h6 {
+  font-size: 1rem;
+}
+a {
+  font-family: DM Sans;
+  text-decoration: none;
+  color:#6096b4;
+}
+a:hover,
+a:focus {
+  color:rgb(36, 48, 117) ;
+  background-color: transparent;
+}
